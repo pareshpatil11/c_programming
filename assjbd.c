@@ -2,6 +2,5 @@
 #include<conio.h>
 void main()
 {
-    printf("ram patil hushar ahe"); 
+    printf("ram patil/n"); 
 }
-
